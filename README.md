@@ -124,11 +124,11 @@ Contributions are welcome! To contribute:
 ![Sign-Up Page Screenshot](https://github.com/mohmad-Awadallah/user-frontend-service/blob/master/assets/Screenshot%20from%202024-12-31%2011-55-56.png))
 
 ### Registration Page
-![Registration Page Screenshot](https://via.placeholder.com/800x400 "Registration Page Screenshot")
+![Registration Page Screenshot](https://github.com/mohmad-Awadallah/user-frontend-service/blob/master/assets/Screenshot%20from%202024-12-31%2011-57-25.png)
 
 ### Login Page
-![Login Page Screenshot](https://via.placeholder.com/800x400 "Login Page Screenshot")
+![Login Page Screenshot](https://github.com/mohmad-Awadallah/user-frontend-service/blob/master/assets/Screenshot%20from%202024-12-31%2011-55-37.png))
 
 ### Logged-In Page
-![Logged-In Page Screenshot](https://via.placeholder.com/800x400 "Logged-In Page Screenshot")
+![Logged-In Page Screenshot](https://github.com/mohmad-Awadallah/user-frontend-service/blob/master/assets/Screenshot%20from%202024-12-31%2011-59-02.png)
 
