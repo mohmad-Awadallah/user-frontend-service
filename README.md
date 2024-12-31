@@ -87,7 +87,6 @@ src/
 
 - **components/**: Contains reusable React components (e.g., buttons, headers).
 - **services/**: Contains files for API calls and business logic.
-- **pages/**: Includes page-level components (e.g., Home, Sign Up, Login).
 - **App.js**: Root component that defines the main structure of the application.
 - **index.css**: Global styles for the application.
 - **index.js**: Main entry point that renders the application.
