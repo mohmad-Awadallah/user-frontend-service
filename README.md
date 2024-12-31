@@ -34,7 +34,7 @@ This project integrates with the `user-backend-service` backend. Ensure that the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohmad-Awadallah/user-backend-service.git
+   git clone https://github.com/mohmad-Awadallah/user-frontend-service.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -114,7 +114,7 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 ---
-
+https://github.com/mohmad-Awadallah/user-frontend-service.git
 ## Screenshots
 
 ### Homepage
