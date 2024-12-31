@@ -121,7 +121,7 @@ Contributions are welcome! To contribute:
 ![Homepage Screenshot](https://github.com/mohmad-Awadallah/user-frontend-service/blob/master/assets/Screenshot%20from%202024-12-31%2011-55-04.png "Homepage Screenshot")
 
 ### Sign-Up Page
-![Sign-Up Page Screenshot](https://via.placeholder.com/800x400 "Sign-Up Page Screenshot")
+![Sign-Up Page Screenshot](https://github.com/mohmad-Awadallah/user-frontend-service/blob/master/assets/Screenshot%20from%202024-12-31%2011-55-56.png))
 
 ### Registration Page
 ![Registration Page Screenshot](https://via.placeholder.com/800x400 "Registration Page Screenshot")
